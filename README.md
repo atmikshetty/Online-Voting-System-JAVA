@@ -1,2 +1,2 @@
 # Mini-Project
-For Sem 3- ONLINE VOTING SYSTEM
+ Sem 3- ONLINE VOTING SYSTEM For Student Council Elections built using Java, MySQL, XAMPP
